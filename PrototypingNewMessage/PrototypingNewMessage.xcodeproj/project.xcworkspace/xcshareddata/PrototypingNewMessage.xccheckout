@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>15A13F33-AE3E-45D3-9069-708B4C24298D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0E4A729DFE5F7A67C4CB560674BAC163CD92F7BA</key>
+		<string>github.com:plam4u/iOS-Playground.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PrototypingNewMessage/PrototypingNewMessage.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0E4A729DFE5F7A67C4CB560674BAC163CD92F7BA</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:plam4u/iOS-Playground.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0E4A729DFE5F7A67C4CB560674BAC163CD92F7BA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0E4A729DFE5F7A67C4CB560674BAC163CD92F7BA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS-Playground</string>
+		</dict>
+	</array>
+</dict>
+</plist>
