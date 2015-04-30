@@ -1,0 +1,415 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A18FD4801AF12B2800CBA8BF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A18FD47F1AF12B2800CBA8BF /* AppDelegate.swift */; };
+		A18FD4821AF12B2800CBA8BF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A18FD4811AF12B2800CBA8BF /* ViewController.swift */; };
+		A18FD4841AF12B2800CBA8BF /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A18FD4831AF12B2800CBA8BF /* Images.xcassets */; };
+		A18FD4871AF12B2800CBA8BF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A18FD4851AF12B2800CBA8BF /* Main.storyboard */; };
+		A18FD4931AF12B2800CBA8BF /* TranslationEditorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A18FD4921AF12B2800CBA8BF /* TranslationEditorTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		A18FD48D1AF12B2800CBA8BF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A18FD4721AF12B2800CBA8BF /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A18FD4791AF12B2800CBA8BF;
+			remoteInfo = TranslationEditor;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		A18FD47A1AF12B2800CBA8BF /* TranslationEditor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TranslationEditor.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A18FD47E1AF12B2800CBA8BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A18FD47F1AF12B2800CBA8BF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		A18FD4811AF12B2800CBA8BF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		A18FD4831AF12B2800CBA8BF /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		A18FD4861AF12B2800CBA8BF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		A18FD48C1AF12B2800CBA8BF /* TranslationEditorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TranslationEditorTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A18FD4911AF12B2800CBA8BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A18FD4921AF12B2800CBA8BF /* TranslationEditorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TranslationEditorTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A18FD4771AF12B2800CBA8BF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A18FD4891AF12B2800CBA8BF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A18FD4711AF12B2800CBA8BF = {
+			isa = PBXGroup;
+			children = (
+				A18FD47C1AF12B2800CBA8BF /* TranslationEditor */,
+				A18FD48F1AF12B2800CBA8BF /* TranslationEditorTests */,
+				A18FD47B1AF12B2800CBA8BF /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A18FD47B1AF12B2800CBA8BF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A18FD47A1AF12B2800CBA8BF /* TranslationEditor.app */,
+				A18FD48C1AF12B2800CBA8BF /* TranslationEditorTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A18FD47C1AF12B2800CBA8BF /* TranslationEditor */ = {
+			isa = PBXGroup;
+			children = (
+				A18FD47F1AF12B2800CBA8BF /* AppDelegate.swift */,
+				A18FD4811AF12B2800CBA8BF /* ViewController.swift */,
+				A18FD4831AF12B2800CBA8BF /* Images.xcassets */,
+				A18FD4851AF12B2800CBA8BF /* Main.storyboard */,
+				A18FD47D1AF12B2800CBA8BF /* Supporting Files */,
+			);
+			path = TranslationEditor;
+			sourceTree = "<group>";
+		};
+		A18FD47D1AF12B2800CBA8BF /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				A18FD47E1AF12B2800CBA8BF /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		A18FD48F1AF12B2800CBA8BF /* TranslationEditorTests */ = {
+			isa = PBXGroup;
+			children = (
+				A18FD4921AF12B2800CBA8BF /* TranslationEditorTests.swift */,
+				A18FD4901AF12B2800CBA8BF /* Supporting Files */,
+			);
+			path = TranslationEditorTests;
+			sourceTree = "<group>";
+		};
+		A18FD4901AF12B2800CBA8BF /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				A18FD4911AF12B2800CBA8BF /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A18FD4791AF12B2800CBA8BF /* TranslationEditor */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A18FD4961AF12B2800CBA8BF /* Build configuration list for PBXNativeTarget "TranslationEditor" */;
+			buildPhases = (
+				A18FD4761AF12B2800CBA8BF /* Sources */,
+				A18FD4771AF12B2800CBA8BF /* Frameworks */,
+				A18FD4781AF12B2800CBA8BF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TranslationEditor;
+			productName = TranslationEditor;
+			productReference = A18FD47A1AF12B2800CBA8BF /* TranslationEditor.app */;
+			productType = "com.apple.product-type.application";
+		};
+		A18FD48B1AF12B2800CBA8BF /* TranslationEditorTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A18FD4991AF12B2800CBA8BF /* Build configuration list for PBXNativeTarget "TranslationEditorTests" */;
+			buildPhases = (
+				A18FD4881AF12B2800CBA8BF /* Sources */,
+				A18FD4891AF12B2800CBA8BF /* Frameworks */,
+				A18FD48A1AF12B2800CBA8BF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A18FD48E1AF12B2800CBA8BF /* PBXTargetDependency */,
+			);
+			name = TranslationEditorTests;
+			productName = TranslationEditorTests;
+			productReference = A18FD48C1AF12B2800CBA8BF /* TranslationEditorTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A18FD4721AF12B2800CBA8BF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0630;
+				ORGANIZATIONNAME = "Plamen Andreev";
+				TargetAttributes = {
+					A18FD4791AF12B2800CBA8BF = {
+						CreatedOnToolsVersion = 6.3.1;
+					};
+					A18FD48B1AF12B2800CBA8BF = {
+						CreatedOnToolsVersion = 6.3.1;
+						TestTargetID = A18FD4791AF12B2800CBA8BF;
+					};
+				};
+			};
+			buildConfigurationList = A18FD4751AF12B2800CBA8BF /* Build configuration list for PBXProject "TranslationEditor" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A18FD4711AF12B2800CBA8BF;
+			productRefGroup = A18FD47B1AF12B2800CBA8BF /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A18FD4791AF12B2800CBA8BF /* TranslationEditor */,
+				A18FD48B1AF12B2800CBA8BF /* TranslationEditorTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A18FD4781AF12B2800CBA8BF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A18FD4841AF12B2800CBA8BF /* Images.xcassets in Resources */,
+				A18FD4871AF12B2800CBA8BF /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A18FD48A1AF12B2800CBA8BF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A18FD4761AF12B2800CBA8BF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A18FD4821AF12B2800CBA8BF /* ViewController.swift in Sources */,
+				A18FD4801AF12B2800CBA8BF /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A18FD4881AF12B2800CBA8BF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A18FD4931AF12B2800CBA8BF /* TranslationEditorTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		A18FD48E1AF12B2800CBA8BF /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A18FD4791AF12B2800CBA8BF /* TranslationEditor */;
+			targetProxy = A18FD48D1AF12B2800CBA8BF /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		A18FD4851AF12B2800CBA8BF /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A18FD4861AF12B2800CBA8BF /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		A18FD4941AF12B2800CBA8BF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		A18FD4951AF12B2800CBA8BF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		A18FD4971AF12B2800CBA8BF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = TranslationEditor/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		A18FD4981AF12B2800CBA8BF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = TranslationEditor/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		A18FD49A1AF12B2800CBA8BF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = TranslationEditorTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TranslationEditor.app/Contents/MacOS/TranslationEditor";
+			};
+			name = Debug;
+		};
+		A18FD49B1AF12B2800CBA8BF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = TranslationEditorTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TranslationEditor.app/Contents/MacOS/TranslationEditor";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A18FD4751AF12B2800CBA8BF /* Build configuration list for PBXProject "TranslationEditor" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A18FD4941AF12B2800CBA8BF /* Debug */,
+				A18FD4951AF12B2800CBA8BF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A18FD4961AF12B2800CBA8BF /* Build configuration list for PBXNativeTarget "TranslationEditor" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A18FD4971AF12B2800CBA8BF /* Debug */,
+				A18FD4981AF12B2800CBA8BF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		A18FD4991AF12B2800CBA8BF /* Build configuration list for PBXNativeTarget "TranslationEditorTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A18FD49A1AF12B2800CBA8BF /* Debug */,
+				A18FD49B1AF12B2800CBA8BF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A18FD4721AF12B2800CBA8BF /* Project object */;
+}
