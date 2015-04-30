@@ -13,6 +13,7 @@ class Experiment6ViewController: UIViewController {
     @IBOutlet weak var topView: UIView!
     @IBOutlet weak var scrollView: UIScrollView!
     @IBOutlet weak var topConstraint: NSLayoutConstraint!
+    @IBOutlet weak var scrollViewTopConstraint: NSLayoutConstraint!
     @IBOutlet weak var textView: UITextView!
     
     var originalConstant:CGFloat = 0
@@ -28,9 +29,6 @@ class Experiment6ViewController: UIViewController {
         originalConstant = topConstraint.constant
         imageHeight = topView.bounds.height
         
-        let nib = UINib(nibName: "KeyboardToolbar", bundle: NSBundle(forClass: self.dynamicType))
-        let view = nib.instantiateWithOwner(self, options: nil).last as! UIView
-
         textView.inputAccessoryView = KeyboardToolbar()
     }
     
@@ -42,9 +40,12 @@ class Experiment6ViewController: UIViewController {
         if let navController = navigationController
         {
             additionalHeight = navController.navigationBar.frame.size.height
+            navController.setNavigationBarHidden(true, animated: true)
         }
         
-        self.topConstraint.constant = -(self.imageHeight)
+        let statusBarHeight = UIApplication.sharedApplication().statusBarFrame.size.height
+        
+        self.topConstraint.constant = -(self.imageHeight + statusBarHeight)
         UIView.animateWithDuration(1, animations: {
             self.view.layoutIfNeeded()
         })
@@ -53,6 +54,7 @@ class Experiment6ViewController: UIViewController {
         {
             if let keyboardHeight = userInfo[UIKeyboardFrameEndUserInfoKey]?.CGRectValue().size.height
             {
+                scrollViewTopConstraint.constant = statusBarHeight
                 scrollView.contentInset = UIEdgeInsets(top: 0, left: 0, bottom: keyboardHeight, right: 0)
             }
         }
@@ -62,11 +64,14 @@ class Experiment6ViewController: UIViewController {
     {
         view.layoutIfNeeded()
         
+        navigationController?.setNavigationBarHidden(false, animated: true)
+        
         self.topConstraint.constant = self.originalConstant
         UIView.animateWithDuration(1, animations: {
             self.view.layoutIfNeeded()
         })
         
+        scrollViewTopConstraint.constant = 0
         scrollView.contentInset = UIEdgeInsets(top: 0, left: 0, bottom: 0, right: 0)
     }
 }
