@@ -1,0 +1,28 @@
+button
+uibutton
+label
+uilabel
+textview
+uitextview
+peter pan
+Lorem ipsum
+Jane Smithsonian
+Such a lovely place
+Peter Thiel
+20.04.2015
+8 CHECK-INS
+8 REVIEWS
+16 PROPERTIES
+valueLocation
+Darwin Street
+25.02.2015
+34
+Like the rest of the world
+description of the agency
+Public Tr Value
+BREEAM Value
+Crime Value
+5:50 PM
+Agent Name
+5:09 PM
+Winsteria

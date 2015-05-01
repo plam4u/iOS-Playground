@@ -1,0 +1,13 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"build_systems":
+	[{
+		"name": "Run with args",
+		"cmd": ["python", "$file", "en.xliff", "en-stripped.xliff", "exclude_list.txt", "-v"]
+	}]
+}

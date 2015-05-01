@@ -1,0 +1,1525 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file datatype="plaintext" original="Propy/Base.lproj/Main.storyboard" source-language="en">
+    <header>
+      <tool build-num="6D1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.3.1" />
+    </header>
+    <body>
+      <trans-unit id="0Af-4o-ofW.text">
+        <source>Quick Link</source>
+        <note>Class = "UILabel"; text = "Quick Link"; ObjectID = "0Af-4o-ofW";</note>
+      </trans-unit>
+      <trans-unit id="0YV-xQ-zOa.text">
+        <source>Label</source>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "0YV-xQ-zOa";</note>
+      </trans-unit>
+      <trans-unit id="0ai-2g-lez.text">
+        <source>Peter pan</source>
+        <note>Class = "UILabel"; text = "Peter pan"; ObjectID = "0ai-2g-lez";</note>
+      </trans-unit>
+      <trans-unit id="0k2-XM-qlE.text">
+        <source>Location of Work:</source>
+        <note>Class = "UILabel"; text = "Location of Work:"; ObjectID = "0k2-XM-qlE";</note>
+      </trans-unit>
+      <trans-unit id="0q4-cK-EdA.normalTitle">
+        <source>X</source>
+        <note>Class = "UIButton"; normalTitle = "X"; ObjectID = "0q4-cK-EdA";</note>
+      </trans-unit>
+      <trans-unit id="1XD-4J-Vlt.normalTitle">
+        <source>Reply</source>
+        <note>Class = "UIButton"; normalTitle = "Reply"; ObjectID = "1XD-4J-Vlt";</note>
+      </trans-unit>
+      <trans-unit id="2Ir-xu-N31.normalTitle">
+        <source>Follow</source>
+        <note>Class = "UIButton"; normalTitle = "Follow"; ObjectID = "2Ir-xu-N31";</note>
+      </trans-unit>
+      <trans-unit id="2RS-AJ-wgT.text">
+        <source>23 Winsteria Lane</source>
+        <note>Class = "UILabel"; text = "23 Winsteria Lane"; ObjectID = "2RS-AJ-wgT";</note>
+      </trans-unit>
+      <trans-unit id="2gl-gl-wfn.title">
+        <source>New Message</source>
+        <note>Class = "UINavigationItem"; title = "New Message"; ObjectID = "2gl-gl-wfn";</note>
+      </trans-unit>
+      <trans-unit id="2ll-0B-uic.text">
+        <source>Label</source>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "2ll-0B-uic";</note>
+      </trans-unit>
+      <trans-unit id="2zB-j5-zYw.text">
+        <source>detail Label</source>
+        <note>Class = "UILabel"; text = "detail Label"; ObjectID = "2zB-j5-zYw";</note>
+      </trans-unit>
+      <trans-unit id="3Hl-sS-f8i.text">
+        <source>Date</source>
+        <note>Class = "UILabel"; text = "Date"; ObjectID = "3Hl-sS-f8i";</note>
+      </trans-unit>
+      <trans-unit id="3Nv-DC-zci.text">
+        <source>Family Home, Pool Party</source>
+        <note>Class = "UILabel"; text = "Family Home, Pool Party"; ObjectID = "3Nv-DC-zci";</note>
+      </trans-unit>
+      <trans-unit id="3W6-XN-i1n.text">
+        <source>To:</source>
+        <note>Class = "UILabel"; text = "To:"; ObjectID = "3W6-XN-i1n";</note>
+      </trans-unit>
+      <trans-unit id="4aD-2e-fCm.text">
+        <source>Recommendations</source>
+        <note>Class = "UILabel"; text = "Recommendations"; ObjectID = "4aD-2e-fCm";</note>
+      </trans-unit>
+      <trans-unit id="5GC-Ts-dY0.placeholder">
+        <source>Min</source>
+        <note>Class = "UITextField"; placeholder = "Min"; ObjectID = "5GC-Ts-dY0";</note>
+      </trans-unit>
+      <trans-unit id="5T5-kq-oCh.text">
+        <source>Label</source>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "5T5-kq-oCh";</note>
+      </trans-unit>
+      <trans-unit id="6Pm-4I-KuV.text">
+        <source>REVIEWS</source>
+        <note>Class = "UILabel"; text = "REVIEWS"; ObjectID = "6Pm-4I-KuV";</note>
+      </trans-unit>
+      <trans-unit id="7b0-Zw-q5S.text">
+        <source>Jane Smithsonian</source>
+        <note>Class = "UILabel"; text = "Jane Smithsonian"; ObjectID = "7b0-Zw-q5S";</note>
+      </trans-unit>
+      <trans-unit id="7p5-gV-lLq.placeholder">
+        <source>Verify Password</source>
+        <note>Class = "UITextField"; placeholder = "Verify Password"; ObjectID = "7p5-gV-lLq";</note>
+      </trans-unit>
+      <trans-unit id="8mq-CO-goK.placeholder">
+        <source>Password</source>
+        <note>Class = "UITextField"; placeholder = "Password"; ObjectID = "8mq-CO-goK";</note>
+      </trans-unit>
+      <trans-unit id="9w3-ph-Cpl.segmentTitles[0]">
+        <source>Total</source>
+        <note>Class = "UISegmentedControl"; 9w3-ph-Cpl.segmentTitles[0] = "Total"; ObjectID = "9w3-ph-Cpl";</note>
+      </trans-unit>
+      <trans-unit id="9w3-ph-Cpl.segmentTitles[1]">
+        <source>Per sqm</source>
+        <note>Class = "UISegmentedControl"; 9w3-ph-Cpl.segmentTitles[1] = "Per sqm"; ObjectID = "9w3-ph-Cpl";</note>
+      </trans-unit>
+      <trans-unit id="9xV-9F-mWK.text">
+        <source>BREEAM</source>
+        <note>Class = "UILabel"; text = "BREEAM"; ObjectID = "9xV-9F-mWK";</note>
+      </trans-unit>
+      <trans-unit id="47H-wF-IS7.text">
+        <source>Such a lovely place. The room distribution is perfect for a young family home.</source>
+        <note>Class = "UILabel"; text = "Such a lovely place. The room distribution is perfect for a young family home."; ObjectID = "47H-wF-IS7";</note>
+      </trans-unit>
+      <trans-unit id="49Z-gO-S2N.text">
+        <source>Environmental</source>
+        <note>Class = "UILabel"; text = "Environmental"; ObjectID = "49Z-gO-S2N";</note>
+      </trans-unit>
+      <trans-unit id="068-Ha-OqB.text">
+        <source>Speaks:</source>
+        <note>Class = "UILabel"; text = "Speaks:"; ObjectID = "068-Ha-OqB";</note>
+      </trans-unit>
+      <trans-unit id="80d-ru-2eH.text">
+        <source>Peter Thiel</source>
+        <note>Class = "UILabel"; text = "Peter Thiel"; ObjectID = "80d-ru-2eH";</note>
+      </trans-unit>
+      <trans-unit id="85T-rS-cFL.text">
+        <source>read more</source>
+        <note>Class = "UILabel"; text = "read more"; ObjectID = "85T-rS-cFL";</note>
+      </trans-unit>
+      <trans-unit id="BHU-Wz-L2U.text">
+        <source>Crime</source>
+        <note>Class = "UILabel"; text = "Crime"; ObjectID = "BHU-Wz-L2U";</note>
+      </trans-unit>
+      <trans-unit id="BhN-x4-TGZ.text">
+        <source>50%</source>
+        <note>Class = "UILabel"; text = "50%"; ObjectID = "BhN-x4-TGZ";</note>
+      </trans-unit>
+      <trans-unit id="CLj-Pv-bod.text">
+        <source>valueLanguages</source>
+        <note>Class = "UILabel"; text = "valueLanguages"; ObjectID = "CLj-Pv-bod";</note>
+      </trans-unit>
+      <trans-unit id="CNL-rT-9h2.text">
+        <source>20.04.2015</source>
+        <note>Class = "UILabel"; text = "20.04.2015"; ObjectID = "CNL-rT-9h2";</note>
+      </trans-unit>
+      <trans-unit id="Cwc-ma-nmM.text">
+        <source>1</source>
+        <note>Class = "UILabel"; text = "1"; ObjectID = "Cwc-ma-nmM";</note>
+      </trans-unit>
+      <trans-unit id="DJ7-Xz-Hhb.text">
+        <source>30%</source>
+        <note>Class = "UILabel"; text = "30%"; ObjectID = "DJ7-Xz-Hhb";</note>
+      </trans-unit>
+      <trans-unit id="DUC-ON-Oz7.text">
+        <source>PRO</source>
+        <note>Class = "UILabel"; text = "PRO"; ObjectID = "DUC-ON-Oz7";</note>
+      </trans-unit>
+      <trans-unit id="Dwb-cr-BkX.text">
+        <source>23 Winsteria Lane</source>
+        <note>Class = "UILabel"; text = "23 Winsteria Lane"; ObjectID = "Dwb-cr-BkX";</note>
+      </trans-unit>
+      <trans-unit id="ESr-ad-lZd.placeholder">
+        <source>Email</source>
+        <note>Class = "UITextField"; placeholder = "Email"; ObjectID = "ESr-ad-lZd";</note>
+      </trans-unit>
+      <trans-unit id="FAh-El-aGP.text">
+        <source>Los Angeles</source>
+        <note>Class = "UILabel"; text = "Los Angeles"; ObjectID = "FAh-El-aGP";</note>
+      </trans-unit>
+      <trans-unit id="FHT-Vu-ea0.normalTitle">
+        <source>Submit</source>
+        <note>Class = "UIButton"; normalTitle = "Submit"; ObjectID = "FHT-Vu-ea0";</note>
+      </trans-unit>
+      <trans-unit id="Fb8-3X-gdB.placeholder">
+        <source>Min</source>
+        <note>Class = "UITextField"; placeholder = "Min"; ObjectID = "Fb8-3X-gdB";</note>
+      </trans-unit>
+      <trans-unit id="G8l-6v-sHl.text">
+        <source>8 REVIEWS</source>
+        <note>Class = "UILabel"; text = "8 REVIEWS"; ObjectID = "G8l-6v-sHl";</note>
+      </trans-unit>
+      <trans-unit id="GSg-m2-ThW.text">
+        <source>8 CHECK-INS</source>
+        <note>Class = "UILabel"; text = "8 CHECK-INS"; ObjectID = "GSg-m2-ThW";</note>
+      </trans-unit>
+      <trans-unit id="Gde-Up-e4u.text">
+        <source>Label</source>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "Gde-Up-e4u";</note>
+      </trans-unit>
+      <trans-unit id="Hnr-du-9Qc.text">
+        <source>To:</source>
+        <note>Class = "UILabel"; text = "To:"; ObjectID = "Hnr-du-9Qc";</note>
+      </trans-unit>
+      <trans-unit id="IBR-iH-Svl.text">
+        <source>REQUEST
+INFO</source>
+        <note>Class = "UILabel"; text = "REQUEST\nINFO"; ObjectID = "IBR-iH-Svl";</note>
+      </trans-unit>
+      <trans-unit id="IRg-8b-bzT.text">
+        <source>16 PROPERTIES</source>
+        <note>Class = "UILabel"; text = "16 PROPERTIES"; ObjectID = "IRg-8b-bzT";</note>
+      </trans-unit>
+      <trans-unit id="JfB-89-7YL.text">
+        <source>PRO USER</source>
+        <note>Class = "UILabel"; text = "PRO USER"; ObjectID = "JfB-89-7YL";</note>
+      </trans-unit>
+      <trans-unit id="KI0-kz-bN8.text">
+        <source>Label</source>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "KI0-kz-bN8";</note>
+      </trans-unit>
+      <trans-unit id="KaO-eO-zCr.text">
+        <source>If your are  interested  we could...</source>
+        <note>Class = "UILabel"; text = "If your are  interested  we could..."; ObjectID = "KaO-eO-zCr";</note>
+      </trans-unit>
+      <trans-unit id="LO7-Wr-2Ug.text">
+        <source>Agency Name</source>
+        <note>Class = "UILabel"; text = "Agency Name"; ObjectID = "LO7-Wr-2Ug";</note>
+      </trans-unit>
+      <trans-unit id="Lo3-QZ-anR.text">
+        <source>A </source>
+        <note>Class = "UILabel"; text = "A "; ObjectID = "Lo3-QZ-anR";</note>
+      </trans-unit>
+      <trans-unit id="M1f-uW-B4w.text">
+        <source>address</source>
+        <note>Class = "UILabel"; text = "address"; ObjectID = "M1f-uW-B4w";</note>
+      </trans-unit>
+      <trans-unit id="M7K-On-j5c.text">
+        <source>Public Transport</source>
+        <note>Class = "UILabel"; text = "Public Transport"; ObjectID = "M7K-On-j5c";</note>
+      </trans-unit>
+      <trans-unit id="M97-JM-a1r.text">
+        <source>USD</source>
+        <note>Class = "UILabel"; text = "USD"; ObjectID = "M97-JM-a1r";</note>
+      </trans-unit>
+      <trans-unit id="MYk-gf-W4c.text">
+        <source>-</source>
+        <note>Class = "UILabel"; text = "-"; ObjectID = "MYk-gf-W4c";</note>
+      </trans-unit>
+      <trans-unit id="Mcc-Ve-zoh.text">
+        <source>valueLocation</source>
+        <note>Class = "UILabel"; text = "valueLocation"; ObjectID = "Mcc-Ve-zoh";</note>
+      </trans-unit>
+      <trans-unit id="NDY-Pf-UuK.placeholder">
+        <source>Email</source>
+        <note>Class = "UITextField"; placeholder = "Email"; ObjectID = "NDY-Pf-UuK";</note>
+      </trans-unit>
+      <trans-unit id="NPd-UQ-MD0.text">
+        <source>23th Darwin Street</source>
+        <note>Class = "UILabel"; text = "23th Darwin Street"; ObjectID = "NPd-UQ-MD0";</note>
+      </trans-unit>
+      <trans-unit id="OAE-L6-fEH.text">
+        <source>Enter your email adress to change
+your password</source>
+        <note>Class = "UILabel"; text = "Enter your email adress to change\nyour password"; ObjectID = "OAE-L6-fEH";</note>
+      </trans-unit>
+      <trans-unit id="Oho-Kl-pj5.text">
+        <source>Social</source>
+        <note>Class = "UILabel"; text = "Social"; ObjectID = "Oho-Kl-pj5";</note>
+      </trans-unit>
+      <trans-unit id="Q7q-dj-0J8.normalTitle">
+        <source>Rate</source>
+        <note>Class = "UIButton"; normalTitle = "Rate"; ObjectID = "Q7q-dj-0J8";</note>
+      </trans-unit>
+      <trans-unit id="QrU-6H-scU.placeholder">
+        <source>Password</source>
+        <note>Class = "UITextField"; placeholder = "Password"; ObjectID = "QrU-6H-scU";</note>
+      </trans-unit>
+      <trans-unit id="Quu-Bg-Oxw.text">
+        <source>English, German, French</source>
+        <note>Class = "UILabel"; text = "English, German, French"; ObjectID = "Quu-Bg-Oxw";</note>
+      </trans-unit>
+      <trans-unit id="RRa-Vd-edD.text">
+        <source>menu title</source>
+        <note>Class = "UILabel"; text = "menu title"; ObjectID = "RRa-Vd-edD";</note>
+      </trans-unit>
+      <trans-unit id="Scg-YW-QIj.text">
+        <source>Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</source>
+        <note>Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "Scg-YW-QIj";</note>
+      </trans-unit>
+      <trans-unit id="UFx-6x-pY3.text">
+        <source>Peter Thiel</source>
+        <note>Class = "UILabel"; text = "Peter Thiel"; ObjectID = "UFx-6x-pY3";</note>
+      </trans-unit>
+      <trans-unit id="V1d-tK-NcD.text">
+        <source>20%</source>
+        <note>Class = "UILabel"; text = "20%"; ObjectID = "V1d-tK-NcD";</note>
+      </trans-unit>
+      <trans-unit id="V9I-sT-6Zh.text">
+        <source>Royal Estate</source>
+        <note>Class = "UILabel"; text = "Royal Estate"; ObjectID = "V9I-sT-6Zh";</note>
+      </trans-unit>
+      <trans-unit id="WBT-6P-Lh8.text">
+        <source>25.03.2015</source>
+        <note>Class = "UILabel"; text = "25.03.2015"; ObjectID = "WBT-6P-Lh8";</note>
+      </trans-unit>
+      <trans-unit id="WkT-xG-Q8e.text">
+        <source>Select</source>
+        <note>Class = "UILabel"; text = "Select"; ObjectID = "WkT-xG-Q8e";</note>
+      </trans-unit>
+      <trans-unit id="WmV-0N-Jkz.normalTitle">
+        <source>Request Info</source>
+        <note>Class = "UIButton"; normalTitle = "Request Info"; ObjectID = "WmV-0N-Jkz";</note>
+      </trans-unit>
+      <trans-unit id="Wzd-zs-zWc.text">
+        <source>CREDITS:</source>
+        <note>Class = "UILabel"; text = "CREDITS:"; ObjectID = "Wzd-zs-zWc";</note>
+      </trans-unit>
+      <trans-unit id="Xi1-1e-Zm9.normalTitle">
+        <source>Sign Up</source>
+        <note>Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "Xi1-1e-Zm9";</note>
+      </trans-unit>
+      <trans-unit id="Xur-Th-XSI.text">
+        <source>EPC Value</source>
+        <note>Class = "UILabel"; text = "EPC Value"; ObjectID = "Xur-Th-XSI";</note>
+      </trans-unit>
+      <trans-unit id="YIq-H5-Aj4.text">
+        <source>25.02.2015</source>
+        <note>Class = "UILabel"; text = "25.02.2015"; ObjectID = "YIq-H5-Aj4";</note>
+      </trans-unit>
+      <trans-unit id="YQB-37-N2J.text">
+        <source>company</source>
+        <note>Class = "UILabel"; text = "company"; ObjectID = "YQB-37-N2J";</note>
+      </trans-unit>
+      <trans-unit id="Z2Z-GA-1qw.text">
+        <source>Credits: </source>
+        <note>Class = "UILabel"; text = "Credits: "; ObjectID = "Z2Z-GA-1qw";</note>
+      </trans-unit>
+      <trans-unit id="ZxW-PF-o1o.text">
+        <source>Peter Thiel</source>
+        <note>Class = "UILabel"; text = "Peter Thiel"; ObjectID = "ZxW-PF-o1o";</note>
+      </trans-unit>
+      <trans-unit id="aQp-yn-Bnh.normalTitle">
+        <source>Button</source>
+        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "aQp-yn-Bnh";</note>
+      </trans-unit>
+      <trans-unit id="aot-SQ-3O7.text">
+        <source>34</source>
+        <note>Class = "UILabel"; text = "34"; ObjectID = "aot-SQ-3O7";</note>
+      </trans-unit>
+      <trans-unit id="av8-Uh-xU6.text">
+        <source>To:</source>
+        <note>Class = "UILabel"; text = "To:"; ObjectID = "av8-Uh-xU6";</note>
+      </trans-unit>
+      <trans-unit id="bch-d2-NyR.text">
+        <source>Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</source>
+        <note>Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "bch-d2-NyR";</note>
+      </trans-unit>
+      <trans-unit id="bdn-XZ-qUa.text">
+        <source>title Label</source>
+        <note>Class = "UILabel"; text = "title Label"; ObjectID = "bdn-XZ-qUa";</note>
+      </trans-unit>
+      <trans-unit id="bek-Ed-JjX.text">
+        <source>description for the energy effiecency</source>
+        <note>Class = "UILabel"; text = "description for the energy effiecency"; ObjectID = "bek-Ed-JjX";</note>
+      </trans-unit>
+      <trans-unit id="bhR-Ib-RMA.normalTitle">
+        <source>Connect</source>
+        <note>Class = "UIButton"; normalTitle = "Connect"; ObjectID = "bhR-Ib-RMA";</note>
+      </trans-unit>
+      <trans-unit id="c7p-kw-Oq0.text">
+        <source> Like the rest of the world, those of us in Delhi believed that Beijing was the world’s most polluted city. But last May, the World Health Organization announced that air in Delhi is nearly twice as toxic. The result is permanent lung damage, and 1.3 million deaths annually. That makes air pollution, after heart disease, India’s second biggest killer.</source>
+        <note>Class = "UILabel"; text = " Like the rest of the world, those of us in Delhi believed that Beijing was the world’s most polluted city. But last May, the World Health Organization announced that air in Delhi is nearly twice as toxic. The result is permanent lung damage, and 1.3 million deaths annually. That makes air pollution, after heart disease, India’s second biggest killer."; ObjectID = "c7p-kw-Oq0";</note>
+      </trans-unit>
+      <trans-unit id="cBc-yi-zCl.text">
+        <source>Office name</source>
+        <note>Class = "UILabel"; text = "Office name"; ObjectID = "cBc-yi-zCl";</note>
+      </trans-unit>
+      <trans-unit id="cdH-vP-Wn6.text">
+        <source>Peter Thiel</source>
+        <note>Class = "UILabel"; text = "Peter Thiel"; ObjectID = "cdH-vP-Wn6";</note>
+      </trans-unit>
+      <trans-unit id="doV-J2-37U.text">
+        <source>description of the agency</source>
+        <note>Class = "UILabel"; text = "description of the agency"; ObjectID = "doV-J2-37U";</note>
+      </trans-unit>
+      <trans-unit id="dx0-76-AW9.normalTitle">
+        <source>Review This Agent and Win 10 Credits</source>
+        <note>Class = "UIButton"; normalTitle = "Review This Agent and Win 10 Credits"; ObjectID = "dx0-76-AW9";</note>
+      </trans-unit>
+      <trans-unit id="dz7-8f-Dew.title">
+        <source>Add a Note</source>
+        <note>Class = "UINavigationItem"; title = "Add a Note"; ObjectID = "dz7-8f-Dew";</note>
+      </trans-unit>
+      <trans-unit id="eQa-Uc-SG5.normalTitle">
+        <source>Button</source>
+        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "eQa-Uc-SG5";</note>
+      </trans-unit>
+      <trans-unit id="ecD-06-To1.text">
+        <source>Public Tr Value</source>
+        <note>Class = "UILabel"; text = "Public Tr Value"; ObjectID = "ecD-06-To1";</note>
+      </trans-unit>
+      <trans-unit id="ftS-Sf-oI2.title">
+        <source>Propy</source>
+        <note>Class = "UINavigationItem"; title = "Propy"; ObjectID = "ftS-Sf-oI2";</note>
+      </trans-unit>
+      <trans-unit id="fuK-34-oQx.placeholder">
+        <source>Max</source>
+        <note>Class = "UITextField"; placeholder = "Max"; ObjectID = "fuK-34-oQx";</note>
+      </trans-unit>
+      <trans-unit id="gBd-yJ-zkz.placeholder">
+        <source>Max</source>
+        <note>Class = "UITextField"; placeholder = "Max"; ObjectID = "gBd-yJ-zkz";</note>
+      </trans-unit>
+      <trans-unit id="gMb-3P-LZ6.text">
+        <source>BREEAM Value</source>
+        <note>Class = "UILabel"; text = "BREEAM Value"; ObjectID = "gMb-3P-LZ6";</note>
+      </trans-unit>
+      <trans-unit id="hJU-7I-7cD.text">
+        <source>Breathing poison in the world’s most polluted city</source>
+        <note>Class = "UILabel"; text = "Breathing poison in the world’s most polluted city"; ObjectID = "hJU-7I-7cD";</note>
+      </trans-unit>
+      <trans-unit id="i4q-My-pdn.text">
+        <source>Rate Peter Thiel</source>
+        <note>Class = "UILabel"; text = "Rate Peter Thiel"; ObjectID = "i4q-My-pdn";</note>
+      </trans-unit>
+      <trans-unit id="i7J-pW-6mH.text">
+        <source>Speaks:</source>
+        <note>Class = "UILabel"; text = "Speaks:"; ObjectID = "i7J-pW-6mH";</note>
+      </trans-unit>
+      <trans-unit id="iC1-bI-2lJ.text">
+        <source>sqm</source>
+        <note>Class = "UILabel"; text = "sqm"; ObjectID = "iC1-bI-2lJ";</note>
+      </trans-unit>
+      <trans-unit id="iqE-wV-nF3.normalTitle">
+        <source>Forgot your password</source>
+        <note>Class = "UIButton"; normalTitle = "Forgot your password"; ObjectID = "iqE-wV-nF3";</note>
+      </trans-unit>
+      <trans-unit id="iyt-qN-LHN.placeholder">
+        <source>First Name</source>
+        <note>Class = "UITextField"; placeholder = "First Name"; ObjectID = "iyt-qN-LHN";</note>
+      </trans-unit>
+      <trans-unit id="kSZ-v4-yDV.text">
+        <source>Expert in:</source>
+        <note>Class = "UILabel"; text = "Expert in:"; ObjectID = "kSZ-v4-yDV";</note>
+      </trans-unit>
+      <trans-unit id="lBZ-OG-evg.text">
+        <source>Pollution</source>
+        <note>Class = "UILabel"; text = "Pollution"; ObjectID = "lBZ-OG-evg";</note>
+      </trans-unit>
+      <trans-unit id="ldq-4Z-Hix.placeholder">
+        <source>Last Name</source>
+        <note>Class = "UITextField"; placeholder = "Last Name"; ObjectID = "ldq-4Z-Hix";</note>
+      </trans-unit>
+      <trans-unit id="m4F-BR-emf.text">
+        <source>Economic</source>
+        <note>Class = "UILabel"; text = "Economic"; ObjectID = "m4F-BR-emf";</note>
+      </trans-unit>
+      <trans-unit id="mvG-Ai-QqE.text">
+        <source>Crime Value</source>
+        <note>Class = "UILabel"; text = "Crime Value"; ObjectID = "mvG-Ai-QqE";</note>
+      </trans-unit>
+      <trans-unit id="n0R-X2-Dcl.text">
+        <source>5:50 PM</source>
+        <note>Class = "UILabel"; text = "5:50 PM"; ObjectID = "n0R-X2-Dcl";</note>
+      </trans-unit>
+      <trans-unit id="nW4-cj-XlR.text">
+        <source>valueHobbies</source>
+        <note>Class = "UILabel"; text = "valueHobbies"; ObjectID = "nW4-cj-XlR";</note>
+      </trans-unit>
+      <trans-unit id="ndV-sT-Htf.text">
+        <source>Label</source>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "ndV-sT-Htf";</note>
+      </trans-unit>
+      <trans-unit id="ns2-Rs-yeh.text">
+        <source>Location:</source>
+        <note>Class = "UILabel"; text = "Location:"; ObjectID = "ns2-Rs-yeh";</note>
+      </trans-unit>
+      <trans-unit id="o6q-0O-5Ke.text">
+        <source>Energy effeciency</source>
+        <note>Class = "UILabel"; text = "Energy effeciency"; ObjectID = "o6q-0O-5Ke";</note>
+      </trans-unit>
+      <trans-unit id="o54-Pm-h0U.text">
+        <source>Label</source>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "o54-Pm-h0U";</note>
+      </trans-unit>
+      <trans-unit id="opw-Xv-rlv.text">
+        <source>Forgot your password ?</source>
+        <note>Class = "UILabel"; text = "Forgot your password ?"; ObjectID = "opw-Xv-rlv";</note>
+      </trans-unit>
+      <trans-unit id="pPo-Az-tdF.text">
+        <source>Agent Name</source>
+        <note>Class = "UILabel"; text = "Agent Name"; ObjectID = "pPo-Az-tdF";</note>
+      </trans-unit>
+      <trans-unit id="psq-tK-G9q.normalTitle">
+        <source>Button</source>
+        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "psq-tK-G9q";</note>
+      </trans-unit>
+      <trans-unit id="pt0-Qy-O3L.text">
+        <source>Area</source>
+        <note>Class = "UILabel"; text = "Area"; ObjectID = "pt0-Qy-O3L";</note>
+      </trans-unit>
+      <trans-unit id="qt2-mi-Q3Z.text">
+        <source>occupation</source>
+        <note>Class = "UILabel"; text = "occupation"; ObjectID = "qt2-mi-Q3Z";</note>
+      </trans-unit>
+      <trans-unit id="rCd-bb-3AD.text">
+        <source>A</source>
+        <note>Class = "UILabel"; text = "A"; ObjectID = "rCd-bb-3AD";</note>
+      </trans-unit>
+      <trans-unit id="rRV-kX-cFV.text">
+        <source>Interested In:</source>
+        <note>Class = "UILabel"; text = "Interested In:"; ObjectID = "rRV-kX-cFV";</note>
+      </trans-unit>
+      <trans-unit id="rXV-nj-deQ.normalTitle">
+        <source>Create an Account</source>
+        <note>Class = "UIButton"; normalTitle = "Create an Account"; ObjectID = "rXV-nj-deQ";</note>
+      </trans-unit>
+      <trans-unit id="rYs-5F-PhP.text">
+        <source>23 Winsteria Lane</source>
+        <note>Class = "UILabel"; text = "23 Winsteria Lane"; ObjectID = "rYs-5F-PhP";</note>
+      </trans-unit>
+      <trans-unit id="s2j-Wd-P44.normalTitle">
+        <source>Contact Now</source>
+        <note>Class = "UIButton"; normalTitle = "Contact Now"; ObjectID = "s2j-Wd-P44";</note>
+      </trans-unit>
+      <trans-unit id="sZm-rU-BTG.text">
+        <source>Name:</source>
+        <note>Class = "UILabel"; text = "Name:"; ObjectID = "sZm-rU-BTG";</note>
+      </trans-unit>
+      <trans-unit id="sqd-km-n6D.placeholder">
+        <source>Search Location</source>
+        <note>Class = "UISearchBar"; placeholder = "Search Location"; ObjectID = "sqd-km-n6D";</note>
+      </trans-unit>
+      <trans-unit id="swi-eE-8rr.text">
+        <source>-</source>
+        <note>Class = "UILabel"; text = "-"; ObjectID = "swi-eE-8rr";</note>
+      </trans-unit>
+      <trans-unit id="tgD-RB-zv2.text">
+        <source>Note text</source>
+        <note>Class = "UILabel"; text = "Note text"; ObjectID = "tgD-RB-zv2";</note>
+      </trans-unit>
+      <trans-unit id="uKg-Ra-Rod.text">
+        <source>PRO</source>
+        <note>Class = "UILabel"; text = "PRO"; ObjectID = "uKg-Ra-Rod";</note>
+      </trans-unit>
+      <trans-unit id="uir-xg-Gzw.text">
+        <source>5:09 PM</source>
+        <note>Class = "UILabel"; text = "5:09 PM"; ObjectID = "uir-xg-Gzw";</note>
+      </trans-unit>
+      <trans-unit id="v4q-9y-rV6.text">
+        <source>Label</source>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "v4q-9y-rV6";</note>
+      </trans-unit>
+      <trans-unit id="vAc-so-Wxl.text">
+        <source>Energy Value</source>
+        <note>Class = "UILabel"; text = "Energy Value"; ObjectID = "vAc-so-Wxl";</note>
+      </trans-unit>
+      <trans-unit id="vIb-Vp-GMZ.text">
+        <source>Main Office:</source>
+        <note>Class = "UILabel"; text = "Main Office:"; ObjectID = "vIb-Vp-GMZ";</note>
+      </trans-unit>
+      <trans-unit id="vf3-LA-8Sd.text">
+        <source>EPC</source>
+        <note>Class = "UILabel"; text = "EPC"; ObjectID = "vf3-LA-8Sd";</note>
+      </trans-unit>
+      <trans-unit id="vgN-lf-TQM.text">
+        <source>TO ACCESS EVEN MORE INFORMATION PLEASE REGISTER</source>
+        <note>Class = "UILabel"; text = "TO ACCESS EVEN MORE INFORMATION PLEASE REGISTER"; ObjectID = "vgN-lf-TQM";</note>
+      </trans-unit>
+      <trans-unit id="vh2-ok-KmT.text">
+        <source>2341</source>
+        <note>Class = "UILabel"; text = "2341"; ObjectID = "vh2-ok-KmT";</note>
+      </trans-unit>
+      <trans-unit id="vvF-Mg-H6Y.placeholder">
+        <source>Email adress</source>
+        <note>Class = "UITextField"; placeholder = "Email adress"; ObjectID = "vvF-Mg-H6Y";</note>
+      </trans-unit>
+      <trans-unit id="w7r-wi-KEj.normalTitle">
+        <source>Sign In</source>
+        <note>Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "w7r-wi-KEj";</note>
+      </trans-unit>
+      <trans-unit id="x08-Po-IHq.text">
+        <source>Pollution Value</source>
+        <note>Class = "UILabel"; text = "Pollution Value"; ObjectID = "x08-Po-IHq";</note>
+      </trans-unit>
+      <trans-unit id="xpO-XZ-HZt.text">
+        <source>Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</source>
+        <note>Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "xpO-XZ-HZt";</note>
+      </trans-unit>
+      <trans-unit id="xza-fg-GGP.text">
+        <source>23 Winsteria Str.</source>
+        <note>Class = "UILabel"; text = "23 Winsteria Str."; ObjectID = "xza-fg-GGP";</note>
+      </trans-unit>
+      <trans-unit id="ygq-WN-Pez.text">
+        <source>Peter Thiel</source>
+        <note>Class = "UILabel"; text = "Peter Thiel"; ObjectID = "ygq-WN-Pez";</note>
+      </trans-unit>
+      <trans-unit id="yh2-4g-Aey.text">
+        <source>Description</source>
+        <note>Class = "UILabel"; text = "Description"; ObjectID = "yh2-4g-Aey";</note>
+      </trans-unit>
+      <trans-unit id="zRj-mu-LeW.text">
+        <source>Jane Dawson</source>
+        <note>Class = "UILabel"; text = "Jane Dawson"; ObjectID = "zRj-mu-LeW";</note>
+      </trans-unit>
+      <trans-unit id="zYq-ts-sUN.normalTitle">
+        <source>Button</source>
+        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "zYq-ts-sUN";</note>
+      </trans-unit>
+      <trans-unit id="zvA-XU-TLH.text">
+        <source>Number of Bedrooms</source>
+        <note>Class = "UILabel"; text = "Number of Bedrooms"; ObjectID = "zvA-XU-TLH";</note>
+      </trans-unit>
+      <trans-unit id="zzk-Lm-UDP.text">
+        <source>VIEWS</source>
+        <note>Class = "UILabel"; text = "VIEWS"; ObjectID = "zzk-Lm-UDP";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="Propy/en.lproj/Localizable.strings" source-language="en">
+    <header>
+      <tool build-num="6D1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.3.1" />
+    </header>
+    <body>
+      <trans-unit id="ad-view.title.advertisement">
+        <source>Advertisement</source>
+        <note>Advertisement</note>
+      </trans-unit>
+      <trans-unit id="add-note-cell.button.add-note">
+        <source>Add a Note</source>
+        <note>Add a Note</note>
+      </trans-unit>
+      <trans-unit id="add-notes.label.text-placeholder-add-notes">
+        <source>Add your notes...</source>
+        <note>Grayed-out text placeholder which disappears when the user starts typing</note>
+      </trans-unit>
+      <trans-unit id="add-notes.title.add-a-note">
+        <source>Add a Note</source>
+        <note>Navigation bar screen title</note>
+      </trans-unit>
+      <trans-unit id="agency-profile.button.contact-now">
+        <source>Contact Now</source>
+        <note>A button label for contacting the agency e.g. opening a contact form</note>
+      </trans-unit>
+      <trans-unit id="agency-profile.button.follow">
+        <source>Follow</source>
+        <note>A button label for following the agency e.g. getting notifications for the agency</note>
+      </trans-unit>
+      <trans-unit id="agency-profile.button.review-agency">
+        <source>Review This Agency</source>
+        <note>A button label for opening a form with ratings to evaluate an agency.</note>
+      </trans-unit>
+      <trans-unit id="agency-profile.label.with-params.number-of-agents">
+        <source>%lu AGENTS</source>
+        <note>{Number of agents} AGENTS</note>
+      </trans-unit>
+      <trans-unit id="agency-profile.label.with-params.total-listings">
+        <source>TOTAL LISTINGS: %d</source>
+        <note>TOTAL LISTINGS: {Number}.</note>
+      </trans-unit>
+      <trans-unit id="agency-profile.title.agency-profile">
+        <source>Agency Profile</source>
+        <note>Navigation bar screen title</note>
+      </trans-unit>
+      <trans-unit id="agent-cell.button.cancel-request">
+        <source>CANCEL
+REQUEST</source>
+        <note>CANCEL\nREQUEST</note>
+      </trans-unit>
+      <trans-unit id="agent-cell.button.request-info">
+        <source>REQUEST
+INFO</source>
+        <note>REQUEST\nINFO</note>
+      </trans-unit>
+      <trans-unit id="agent-cell.button.send">
+        <source>Send</source>
+        <note>Send</note>
+      </trans-unit>
+      <trans-unit id="agent-cell.label.with-params.check-ins">
+        <source>%d CHECK-INS</source>
+        <note>%d CHECK-INS</note>
+      </trans-unit>
+      <trans-unit id="agent-cell.label.with-params.pro-check-ins">
+        <source>PRO %d CHECK-INS</source>
+        <note>PRO %d CHECK-INS</note>
+      </trans-unit>
+      <trans-unit id="agent-cell.label.with-params.request-more-info-template">
+        <source>Dear %@,
+I’m interested in the property on %@ from http://www.propy.com/.
+Could you please send me further information.</source>
+        <note>Dear %@,\nI'm interested in the property on %@ from http://www.propy.com/.\nCould you please send me further information.</note>
+      </trans-unit>
+      <trans-unit id="agent-cell.label.your-message-has-been-sent">
+        <source>Your message has been sent to the agent</source>
+        <note>Your message has been sent to the agent</note>
+      </trans-unit>
+      <trans-unit id="agent-profile.label.listed-properties">
+        <source>Listed Properties:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="agent-profile.title.agent-profile">
+        <source>Agent Profile</source>
+        <note>Navigation-bar title</note>
+      </trans-unit>
+      <trans-unit id="building-details.label.check-in-and-get-credits">
+        <source>Check-in when you visit this property and get 100 credits. Then you can make reviews of this property.</source>
+        <note>Label string shown inside an alert when the user taps the check-in button</note>
+      </trans-unit>
+      <trans-unit id="building-details.label.do-you-sell-a-property-here">
+        <source>Do you sell a property here?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="building-details.label.tap-here-to-list-your-property">
+        <source>Tap here to list your property</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="building-details.label.with-params.number-of-properties-in-development">
+        <source>%lu PROPERTIES IN DEVELOPMENT</source>
+        <note>{Number of properties} PROPERTIES IN DEVELOPMENT</note>
+      </trans-unit>
+      <trans-unit id="building-details.label.you-are-to-far-away">
+        <source>you are too far away</source>
+        <note>Alert view string</note>
+      </trans-unit>
+      <trans-unit id="building-details.label.you-cannot-check-in-for-15-minutes">
+        <source>you can not check in the next 15 minutes</source>
+        <note>Alert view label</note>
+      </trans-unit>
+      <trans-unit id="building-details.label.you-checked-in-successfully">
+        <source>you checked in successfully</source>
+        <note>Alert view label</note>
+      </trans-unit>
+      <trans-unit id="building-details.label.you-successfully-checked-in-and-got-credits">
+        <source>You successfully checked in and got 100 credits.</source>
+        <note>Alert view string</note>
+      </trans-unit>
+      <trans-unit id="building-expandable-cell.label.breeam">
+        <source>BREEAM</source>
+        <note>BREEAM</note>
+      </trans-unit>
+      <trans-unit id="building-expandable-cell.label.carbon-footprint">
+        <source>CARBON FOOTPRINT</source>
+        <note>CARBON FOOTPRINT</note>
+      </trans-unit>
+      <trans-unit id="building-expandable-cell.label.enegy-efficiency">
+        <source>ENERGY EFFICIENCY</source>
+        <note>ENERGY EFFICIENCY</note>
+      </trans-unit>
+      <trans-unit id="building-expandable-cell.label.see-what-may-decrease-your-expenses">
+        <source>See what may decrease your expenses and prevent climate change on a worldwide scale</source>
+        <note>See what may decrease your expenses and prevent climate change on a worldwide scale</note>
+      </trans-unit>
+      <trans-unit id="building-expandable-cell.title.building">
+        <source>Building</source>
+        <note>Building</note>
+      </trans-unit>
+      <trans-unit id="building-info-cell.label.breaam-info">
+        <source>BREEAM (Building Research Establishment Environmental Assessment Methodology), first published by the Building Research Establishment (BRE) in 1990.</source>
+        <note>BREEAM (Building Research Establishment Environmental Assessment Methodology), first published by the Building Research Establishment (BRE) in 1990.</note>
+      </trans-unit>
+      <trans-unit id="common.button.accept">
+        <source>Accept</source>
+        <note>Button label</note>
+      </trans-unit>
+      <trans-unit id="common.button.cancel">
+        <source>Cancel</source>
+        <note>Button label</note>
+      </trans-unit>
+      <trans-unit id="common.button.done">
+        <source>Done</source>
+        <note>Button label</note>
+      </trans-unit>
+      <trans-unit id="common.button.ok">
+        <source>OK</source>
+        <note>Button label</note>
+      </trans-unit>
+      <trans-unit id="common.button.uppercase.add-a-note">
+        <source>ADD A NOTE</source>
+        <note>Button label</note>
+      </trans-unit>
+      <trans-unit id="common.button.uppercase.browse">
+        <source>BROWSE</source>
+        <note>Button label</note>
+      </trans-unit>
+      <trans-unit id="common.button.uppercase.check-in">
+        <source>CHECK-IN</source>
+        <note>Button label</note>
+      </trans-unit>
+      <trans-unit id="common.button.uppercase.checked-in">
+        <source>CHECKED-IN</source>
+        <note>Button label</note>
+      </trans-unit>
+      <trans-unit id="common.button.uppercase.compare">
+        <source>COMPARE</source>
+        <note>Button label</note>
+      </trans-unit>
+      <trans-unit id="common.button.uppercase.share">
+        <source>SHARE</source>
+        <note>Button label</note>
+      </trans-unit>
+      <trans-unit id="common.label.congrats-you-are-now-vip">
+        <source>Congratulations. You are now a VIP user.</source>
+        <note>Alert-view message</note>
+      </trans-unit>
+      <trans-unit id="common.label.economical">
+        <source>Economical</source>
+        <note>Label</note>
+      </trans-unit>
+      <trans-unit id="common.label.forgot-your-password">
+        <source>Forgot your password</source>
+        <note>Simple label</note>
+      </trans-unit>
+      <trans-unit id="common.label.premium-locations">
+        <source>Premium Locations:</source>
+        <note>Title label for a list of properties.</note>
+      </trans-unit>
+      <trans-unit id="common.label.provide-code-for-vip-status">
+        <source>Please, provide code for VIP status</source>
+        <note>Alert-view message</note>
+      </trans-unit>
+      <trans-unit id="common.label.social">
+        <source>Social</source>
+        <note>Label</note>
+      </trans-unit>
+      <trans-unit id="common.label.text-placeholder-email">
+        <source>Email</source>
+        <note>An email placeholder in a textfield showing the user what to fill in e.g. &lt;type email here&gt;</note>
+      </trans-unit>
+      <trans-unit id="common.label.text-placeholder-password">
+        <source>Password</source>
+        <note>A password placeholder in a textfield showing the user what to fill in e.g. &lt;type password here&gt;</note>
+      </trans-unit>
+      <trans-unit id="common.label.wrong-code">
+        <source>Wrong code</source>
+        <note>Alert-view message</note>
+      </trans-unit>
+      <trans-unit id="common.title.error">
+        <source>error</source>
+        <note>Alert-view title</note>
+      </trans-unit>
+      <trans-unit id="common.title.filters">
+        <source>Filters</source>
+        <note>Navigation item title</note>
+      </trans-unit>
+      <trans-unit id="common.title.the-app-name">
+        <source>Propy</source>
+        <note>The app name. For most languages it will probably be just Propy</note>
+      </trans-unit>
+      <trans-unit id="create-account.button.sign-up">
+        <source>Sign Up</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="create-account.label.text-placeholder-confirm-password">
+        <source>Confirm Password</source>
+        <note>A confirm password placeholder in a textfield showing the user what to fill in e.g. &lt;retype your password here&gt;</note>
+      </trans-unit>
+      <trans-unit id="create-account.label.text-placeholder-first-name">
+        <source>First Name</source>
+        <note>Placeholder text in a textfield which disappears once the user starts typing</note>
+      </trans-unit>
+      <trans-unit id="create-account.label.text-placeholder-last-name">
+        <source>Last Name</source>
+        <note>Placeholder text in a textfield which disappears once the user starts typing</note>
+      </trans-unit>
+      <trans-unit id="custom-callout-annotation.button.enter-code">
+        <source>Enter a code</source>
+        <note>Enter a code</note>
+      </trans-unit>
+      <trans-unit id="custom-callout-annotation.label.seller-set-privacy-available-for-vip">
+        <source>The seller set privacy. Only available for VIP
+subscription and
+’Propy buyer’ members.</source>
+        <note>The seller set privacy. Only available for VIP\nsubscription and\n'Propy buyer' members.</note>
+      </trans-unit>
+      <trans-unit id="description-cell.button.read-less">
+        <source>read less</source>
+        <note>read less</note>
+      </trans-unit>
+      <trans-unit id="description-cell.button.read-more">
+        <source>read more</source>
+        <note>read more</note>
+      </trans-unit>
+      <trans-unit id="development-cell.label.with-params.properties-count">
+        <source>%d PROPERTIES</source>
+        <note>%d PROPERTIES</note>
+      </trans-unit>
+      <trans-unit id="development-cell.label.with-params.reviews-count">
+        <source>%d REVIEWS</source>
+        <note>%d REVIEWS</note>
+      </trans-unit>
+      <trans-unit id="development-cell.title.this-property-is-part-of-a-development">
+        <source>This Property is Part of a Development</source>
+        <note>This Property is Part of a Development</note>
+      </trans-unit>
+      <trans-unit id="development-image-pager-cell.label.with-params.properties-count">
+        <source>%ld properties</source>
+        <note>%ld properties</note>
+      </trans-unit>
+      <trans-unit id="development-image-pager-cell.label.with-params.reviews-count">
+        <source>%ld reviews</source>
+        <note>%ld reviews</note>
+      </trans-unit>
+      <trans-unit id="enums.area-unit-type.sqft">
+        <source>sqft</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enums.area-unit-type.sqm">
+        <source>sqm</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enums.area-unit-type.undefined">
+        <source>n/a</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enums.currency-type.aed">
+        <source>AED</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enums.currency-type.bgn">
+        <source>BGN</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enums.currency-type.eur">
+        <source>€</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enums.currency-type.gbp">
+        <source>£</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enums.currency-type.hkd">
+        <source>HKD</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enums.currency-type.rub">
+        <source>RUB</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enums.currency-type.sgd">
+        <source>SGD</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enums.currency-type.undefined">
+        <source>n/a</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enums.currency-type.usd">
+        <source>$</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enums.efficiency-class.class-a">
+        <source>A</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enums.efficiency-class.class-b">
+        <source>B</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enums.efficiency-class.class-c">
+        <source>C</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enums.efficiency-class.class-d">
+        <source>D</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enums.efficiency-class.class-e">
+        <source>E</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enums.efficiency-class.class-f">
+        <source>F</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enums.efficiency-class.class-g">
+        <source>G</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enums.efficiency-class.undefined">
+        <source>No info provided</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enums.language.arabic">
+        <source>Arabic</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enums.language.english">
+        <source>English</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enums.language.french">
+        <source>French</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enums.language.german">
+        <source>German</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enums.language.russian">
+        <source>Russian</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enums.language.spanish">
+        <source>Spanish</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enums.property-type.apartment">
+        <source>Apartment</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enums.property-type.condo">
+        <source>Condo</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enums.property-type.coop">
+        <source>Coop</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enums.property-type.farm">
+        <source>Farm</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enums.property-type.house-boat">
+        <source>House boat</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enums.property-type.loft">
+        <source>Loft</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enums.property-type.multi-family-home">
+        <source>Multi family</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enums.property-type.single-family-home">
+        <source>Single family</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enums.property-type.tic">
+        <source>TIC</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enums.property-type.town-home">
+        <source>Townhome</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enums.property-type.undefined">
+        <source>n/a</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="expandable.button.hide">
+        <source>hide</source>
+        <note>hide</note>
+      </trans-unit>
+      <trans-unit id="expandable.button.show-more">
+        <source>show more</source>
+        <note>show more</note>
+      </trans-unit>
+      <trans-unit id="extra-property-info.label.1st-floor">
+        <source>1st floor</source>
+        <note>1st floor</note>
+      </trans-unit>
+      <trans-unit id="extra-property-info.label.2nd-floor">
+        <source>2nd floor</source>
+        <note>2nd floor</note>
+      </trans-unit>
+      <trans-unit id="extra-property-info.label.3rd-floor">
+        <source>3rd floor</source>
+        <note>3rd floor</note>
+      </trans-unit>
+      <trans-unit id="extra-property-info.label.ground-floor">
+        <source>Ground floor</source>
+        <note>Ground floor</note>
+      </trans-unit>
+      <trans-unit id="filters.label.advanced-filters-are-coming-soon">
+        <source>Advanced Filters are coming soon</source>
+        <note>Advanced Filters are coming soon</note>
+      </trans-unit>
+      <trans-unit id="floor-plans-cell.label.building-floor-plans">
+        <source>Building Floor Plans</source>
+        <note>Building Floor Plans</note>
+      </trans-unit>
+      <trans-unit id="forgot-password.label.enter-your-email-to-change-password">
+        <source>Enter your Email adress to change your password</source>
+        <note>Label with instructions</note>
+      </trans-unit>
+      <trans-unit id="global-helper.label.coming-soon">
+        <source>Coming Soon</source>
+        <note>Coming Soon</note>
+      </trans-unit>
+      <trans-unit id="global-helper.label.establish-stable-connection-to-internet">
+        <source>Please establish stable connection to internet</source>
+        <note>Please establish stable connection to internet</note>
+      </trans-unit>
+      <trans-unit id="global-helper.label.fill-all-fields">
+        <source>Please fill all fields</source>
+        <note>Please fill all fields</note>
+      </trans-unit>
+      <trans-unit id="global-helper.label.location-services-not-available">
+        <source>Location services not available</source>
+        <note>Location services not available</note>
+      </trans-unit>
+      <trans-unit id="global-helper.label.password-should-be-at-least-characters">
+        <source>Sorry password should be at least 6 characters</source>
+        <note>Sorry password should be at least 6 characters</note>
+      </trans-unit>
+      <trans-unit id="global-helper.label.sorry-your-email-is-not-valid">
+        <source>Sorry your Email is not valid</source>
+        <note>Sorry your Email is not valid</note>
+      </trans-unit>
+      <trans-unit id="global-helper.label.this-email-is-already-in-use">
+        <source>Sorry this email address is already used</source>
+        <note>Sorry this email address is already used</note>
+      </trans-unit>
+      <trans-unit id="global-helper.label.your-credentials-do-not-match">
+        <source>Sorry your credetentials do not match</source>
+        <note>Sorry your credetentials do not match</note>
+      </trans-unit>
+      <trans-unit id="global-helper.label.your-password-does-not-match">
+        <source>Your password does not match</source>
+        <note>Your password does not match</note>
+      </trans-unit>
+      <trans-unit id="info-review-cell.label.only-vip-users-can-see-views">
+        <source>only vip users can see views</source>
+        <note>only vip users can see views</note>
+      </trans-unit>
+      <trans-unit id="info-review-cell.label.with-params.check-ins-count">
+        <source>%@ CHECK-INS</source>
+        <note>%@ CHECK-INS</note>
+      </trans-unit>
+      <trans-unit id="info-review-cell.label.with-params.reviews-count">
+        <source>%@ REVIEWS</source>
+        <note>%@ REVIEWS</note>
+      </trans-unit>
+      <trans-unit id="info-review-cell.label.with-params.views-count">
+        <source>%@ VIEWS</source>
+        <note>%@ VIEWS</note>
+      </trans-unit>
+      <trans-unit id="link-cell.label.leave-your-review">
+        <source>Leave your Review</source>
+        <note>Leave your Review</note>
+      </trans-unit>
+      <trans-unit id="location-expandable-cell.label.info">
+        <source>Check public tansport, pollution, walkability... see why this is important for you and the planet</source>
+        <note>Check public tansport, pollution, walkability... see why this is important for you and the planet</note>
+      </trans-unit>
+      <trans-unit id="location-expandable-cell.label.noise-pollution">
+        <source>Noise Pollution</source>
+        <note>Noise Pollution</note>
+      </trans-unit>
+      <trans-unit id="location-expandable-cell.label.public-transport-access">
+        <source>Public Transport Access</source>
+        <note>Public Transport Access</note>
+      </trans-unit>
+      <trans-unit id="location-expandable-cell.label.walkability-score">
+        <source>Walkability Score</source>
+        <note>Walkability Score</note>
+      </trans-unit>
+      <trans-unit id="location-expandable-cell.label.waste-separation">
+        <source>Waste Separation</source>
+        <note>Waste Separation</note>
+      </trans-unit>
+      <trans-unit id="location-expandable-cell.title.location">
+        <source>Location</source>
+        <note>Location</note>
+      </trans-unit>
+      <trans-unit id="login.button.create-account">
+        <source>Create an Account</source>
+        <note>Button label</note>
+      </trans-unit>
+      <trans-unit id="map.label.are-you-sure-you-want-to-hide-this-property">
+        <source>Are you sure you want to hide this property?</source>
+        <note>Alert-view message</note>
+      </trans-unit>
+      <trans-unit id="map.label.confirmation">
+        <source>Confirmation</source>
+        <note>Alert-view title</note>
+      </trans-unit>
+      <trans-unit id="map.label.no-results-found">
+        <source>No results found</source>
+        <note>Alert-view message</note>
+      </trans-unit>
+      <trans-unit id="photo-browser.label.cancel">
+        <source>Cancel</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="photo-browser.label.capitalized.photo">
+        <source>Photo</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="photo-browser.label.copied">
+        <source>Copied</source>
+        <note>Informing the user an item has finished copying</note>
+      </trans-unit>
+      <trans-unit id="photo-browser.label.copy">
+        <source>Copy</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="photo-browser.label.copying">
+        <source>Copying</source>
+        <note>Displayed with ellipsis as 'Copying...' when an item is in the process of being copied</note>
+      </trans-unit>
+      <trans-unit id="photo-browser.label.dismiss">
+        <source>Dismiss</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="photo-browser.label.done">
+        <source>Done</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="photo-browser.label.email">
+        <source>Email</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="photo-browser.label.email-failed-to-send">
+        <source>Email failed to send. Please try again.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="photo-browser.label.failed">
+        <source>Failed</source>
+        <note>Informing the user a process has failed</note>
+      </trans-unit>
+      <trans-unit id="photo-browser.label.of">
+        <source>of</source>
+        <note>Used in the context: 'Showing 1 of 3 items'</note>
+      </trans-unit>
+      <trans-unit id="photo-browser.label.photo">
+        <source>photo</source>
+        <note>Used in the context: '1 photo'</note>
+      </trans-unit>
+      <trans-unit id="photo-browser.label.photos">
+        <source>photos</source>
+        <note>Used in the context: '3 photos'</note>
+      </trans-unit>
+      <trans-unit id="photo-browser.label.preparing">
+        <source>Preparing</source>
+        <note>Displayed with ellipsis as 'Preparing...' when an item is in the process of being prepared</note>
+      </trans-unit>
+      <trans-unit id="photo-browser.label.save">
+        <source>Save</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="photo-browser.label.saved">
+        <source>Saved</source>
+        <note>Informing the user an item has been saved</note>
+      </trans-unit>
+      <trans-unit id="photo-browser.label.saving">
+        <source>Saving</source>
+        <note>Displayed with ellipsis as 'Saving...' when an item is in the process of being saved</note>
+      </trans-unit>
+      <trans-unit id="photo-browser.label.select-photos">
+        <source>Select Photos</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="price-range-cell.label.total-price">
+        <source>Total Price</source>
+        <note>Total Price</note>
+      </trans-unit>
+      <trans-unit id="price-range-cell.label.with-params.price-per-amount">
+        <source>Price per %@</source>
+        <note>Price per %@</note>
+      </trans-unit>
+      <trans-unit id="property-details.button.write-review-later">
+        <source>Write review later</source>
+        <note>Button label</note>
+      </trans-unit>
+      <trans-unit id="property-details.label.agents">
+        <source>Agents</source>
+        <note>Agents</note>
+      </trans-unit>
+      <trans-unit id="property-details.label.area-info">
+        <source>Area Info</source>
+        <note>Label text</note>
+      </trans-unit>
+      <trans-unit id="property-details.label.area-info-details">
+        <source>Crime rate, Schools, Walkability, Natural Disasters, Noise</source>
+        <note>Label text</note>
+      </trans-unit>
+      <trans-unit id="property-details.label.leave-your-review">
+        <source>Leave your Review(Check-in required)</source>
+        <note>Leave your Review(Check-in required)</note>
+      </trans-unit>
+      <trans-unit id="property-details.label.looks-like-you-are-too-far">
+        <source>Looks like you are too far.</source>
+        <note>Alert-view message</note>
+      </trans-unit>
+      <trans-unit id="property-details.label.my-notes">
+        <source>My Notes:</source>
+        <note>My Notes:</note>
+      </trans-unit>
+      <trans-unit id="property-details.label.quick-links">
+        <source>Quick Links</source>
+        <note>Quick Links</note>
+      </trans-unit>
+      <trans-unit id="property-details.label.user-reviews">
+        <source>User Reviews</source>
+        <note>User Reviews</note>
+      </trans-unit>
+      <trans-unit id="property-details.label.with-params.check-in-when-you-visit-and-get-credits">
+        <source>Check-in when you visit this property and get 100 credits. Then you can make reviews of this property.</source>
+        <note>Check-in when you visit this property and get {amount} credits. Then you can make reviews of this property</note>
+      </trans-unit>
+      <trans-unit id="property-details.label.with-params.get-your-reward">
+        <source>Get Your $600 Reward</source>
+        <note>Get Your {amount} Reward</note>
+      </trans-unit>
+      <trans-unit id="property-details.label.with-params.learn-how-to-earn-as-much-as-with-our-program">
+        <source>learn how to earn as much as 600$ with our program</source>
+        <note>learn how to earn as much as {amaunt} with our program</note>
+      </trans-unit>
+      <trans-unit id="property-details.label.with-params.now-you-can-check-in-and-get-credits">
+        <source>Looks like you are in the property. Now you can check-in, leave review of this property and get 100 credits.</source>
+        <note>Looks like you are in the property. Now you can check-in, leave review of this property and get {amount} credits.</note>
+      </trans-unit>
+      <trans-unit id="property-details.label.with-params.you-successfully-checked-in-and-got-credits">
+        <source>You successfully checked in and got 100 credits.</source>
+        <note>You successfully checked in and got {amount} credits.</note>
+      </trans-unit>
+      <trans-unit id="property-details.label.you-cannot-check-the-same-day">
+        <source>You can not check-in the same day.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="property-details.title.for-foreign-buyers">
+        <source>For Foreign Buyers</source>
+        <note>Quick link title</note>
+      </trans-unit>
+      <trans-unit id="property-details.title.hide-this-property">
+        <source>Hide this Property</source>
+        <note>Quick link title</note>
+      </trans-unit>
+      <trans-unit id="property-details.title.mortgage-calculator">
+        <source>Mortgage Calculator</source>
+        <note>Quick link title</note>
+      </trans-unit>
+      <trans-unit id="property-details.title.property-floor-plans">
+        <source>Property Floor Plans</source>
+        <note>Quick link title</note>
+      </trans-unit>
+      <trans-unit id="property-details.title.property-management">
+        <source>Property Management</source>
+        <note>Quick link title</note>
+      </trans-unit>
+      <trans-unit id="property-details.title.report-this-property">
+        <source>Report this Property</source>
+        <note>Quick link title</note>
+      </trans-unit>
+      <trans-unit id="property-discussion.title.property-discussion">
+        <source>Property Name Discussion</source>
+        <note>Navigation-bar title</note>
+      </trans-unit>
+      <trans-unit id="property-interior-cell.title.property-interior">
+        <source>Property Interior</source>
+        <note>Property Interior</note>
+      </trans-unit>
+      <trans-unit id="side-menu.button.tap-to-login">
+        <source>Tap to login</source>
+        <note>Button label</note>
+      </trans-unit>
+      <trans-unit id="side-menu.title.calculator">
+        <source>Calculator</source>
+        <note>Side-menu item title</note>
+      </trans-unit>
+      <trans-unit id="side-menu.title.find-agent">
+        <source>Find Agent</source>
+        <note>Side-menu item title</note>
+      </trans-unit>
+      <trans-unit id="side-menu.title.get-credits">
+        <source>Get Credits</source>
+        <note>Side-menu item title</note>
+      </trans-unit>
+      <trans-unit id="side-menu.title.get-vip">
+        <source>Get VIP status</source>
+        <note>Side-menu item title</note>
+      </trans-unit>
+      <trans-unit id="side-menu.title.history">
+        <source>History</source>
+        <note>Side-menu item title</note>
+      </trans-unit>
+      <trans-unit id="side-menu.title.list-my-property">
+        <source>List my Property</source>
+        <note>Side-menu item title</note>
+      </trans-unit>
+      <trans-unit id="side-menu.title.my-agents">
+        <source>My Agents</source>
+        <note>Side-menu item title</note>
+      </trans-unit>
+      <trans-unit id="side-menu.title.my-compares">
+        <source>My Compares</source>
+        <note>Side-menu item title</note>
+      </trans-unit>
+      <trans-unit id="side-menu.title.my-viewings">
+        <source>My Viewings</source>
+        <note>Side-menu item title</note>
+      </trans-unit>
+      <trans-unit id="side-menu.title.my-wish-list">
+        <source>My Wishlist</source>
+        <note>Side-menu item title</note>
+      </trans-unit>
+      <trans-unit id="side-menu.title.pin-property">
+        <source>Pin Property</source>
+        <note>Side-menu item title</note>
+      </trans-unit>
+      <trans-unit id="side-menu.title.search">
+        <source>Search</source>
+        <note>Side-menu item title</note>
+      </trans-unit>
+      <trans-unit id="sliding-property.label.zoom-in-for-more-properties">
+        <source>please zoom in for more properties</source>
+        <note>Small text above the map that gives a tip to the user</note>
+      </trans-unit>
+      <trans-unit id="sms-code.button.enter-code">
+        <source>Enter Code]</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="sms-code.button.get-code">
+        <source>Get Code</source>
+        <note>Button label</note>
+      </trans-unit>
+      <trans-unit id="sms-code.label.enter-a-code">
+        <source>Please enter a code</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="sms-code.label.enter-the-code-you-received-on-number">
+        <source>Enter the code you received on +359XXX XXX XXX</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="sms-code.label.text-placeholder-code">
+        <source>CODE</source>
+        <note>Grayed-out text placeholder which disappears when the user starts typing</note>
+      </trans-unit>
+      <trans-unit id="sms-code.label.whats-your-phone-number">
+        <source>What’s your phone number?</source>
+        <note>Requesting user's phone number</note>
+      </trans-unit>
+      <trans-unit id="sms-code.label.your-number-is-important-for-the-verification">
+        <source>Your number is important for communication and future listing verification.</source>
+        <note>Clarifying text showing why is needed the user's phone number</note>
+      </trans-unit>
+      <trans-unit id="sustainability-breakdown.title.score-breakdown">
+        <source>Score Breakdown</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="sustainability-cell.label.with-params.sustainability-score">
+        <source>Sustainability Score: %@ of 10</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="sustainability-chart.label.governmental">
+        <source>Governmental</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="sustainability-chart.label.unrewarded">
+        <source>Unrewarded</source>
+        <note>Pie chart legend label</note>
+      </trans-unit>
+      <trans-unit id="sustainability-expandable-cell.label.crime-info">
+        <source>Several methods for measuring crime exist. Public surveys are sometimes conducted to estimate the amount of crime not reported to police. Such surveys are usually more reliable for assessing trends. However, they also have their limitations and generally don’t procure statistics useful</source>
+        <note>Several methods for measuring crime exist. Public surveys are sometimes conducted to estimate the amount of crime not reported to police. Such surveys are usually more reliable for assessing trends. However, they also have their limitations and generally don't procure statistics useful</note>
+      </trans-unit>
+      <trans-unit id="sustainability-expandable-cell.label.emissions-info">
+        <source>A carbon footprint is defined as the total sets of greenhouse gas emissions caused by an organization, event, product or person. The total carbon footprint cannot be calculated because of the large amount of data required and the fact that carbon dioxide can be produced by natural occurrences</source>
+        <note>A carbon footprint is defined as the total sets of greenhouse gas emissions caused by an organization, event, product or person. The total carbon footprint cannot be calculated because of the large amount of data required and the fact that carbon dioxide can be produced by natural occurrences</note>
+      </trans-unit>
+      <trans-unit id="sustainability-expandable-cell.label.furniture-info">
+        <source>Furniture is the mass noun for the movable objects intended to support various human activities such as seating (e.g., chairs, stools and sofas) and sleeping. Furniture is also used to hold objects at a convenient height for work</source>
+        <note>Furniture is the mass noun for the movable objects intended to support various human activities such as seating (e.g., chairs, stools and sofas) and sleeping. Furniture is also used to hold objects at a convenient height for work</note>
+      </trans-unit>
+      <trans-unit id="sustainability-expandable-cell.label.pollution-info">
+        <source>Pollution is the introduction of contaminants into the natural environment that cause adverse change. Pollution can take the form of chemical substances or energy, such as noise, heat or light. Pollutants, the components of pollution, can be either foreign substances/energies</source>
+        <note>Pollution is the introduction of contaminants into the natural environment that cause adverse change. Pollution can take the form of chemical substances or energy, such as noise, heat or light. Pollutants, the components of pollution, can be either foreign substances/energies</note>
+      </trans-unit>
+      <trans-unit id="sustainability-expandable-cell.label.public-transport-info">
+        <source>Public transport (North American English: public transportation or public transit) is a shared passenger transport service which is available for use by the general public, as distinct from modes such as taxicab, carpooling or hired buses</source>
+        <note>Public transport (North American English: public transportation or public transit) is a shared passenger transport service which is available for use by the general public, as distinct from modes such as taxicab, carpooling or hired buses</note>
+      </trans-unit>
+      <trans-unit id="sustainability.label.by-building">
+        <source>By Building</source>
+        <note>By Building</note>
+      </trans-unit>
+      <trans-unit id="sustainability.label.by-location">
+        <source>By Location</source>
+        <note>By Location</note>
+      </trans-unit>
+      <trans-unit id="sustainability.label.crime">
+        <source>Crime</source>
+        <note>Crime</note>
+      </trans-unit>
+      <trans-unit id="sustainability.label.emissions">
+        <source>CO₂ Emissions</source>
+        <note>CO₂ Emissions</note>
+      </trans-unit>
+      <trans-unit id="sustainability.label.environmental">
+        <source>Environmental</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="sustainability.label.furniture">
+        <source>Furniture</source>
+        <note>Furniture</note>
+      </trans-unit>
+      <trans-unit id="sustainability.label.pollution">
+        <source>Pollution</source>
+        <note>Pollution</note>
+      </trans-unit>
+      <trans-unit id="sustainability.label.public-transport">
+        <source>Public Transport</source>
+        <note>Public Transport</note>
+      </trans-unit>
+      <trans-unit id="sustainability.title.sustainability-score">
+        <source>Sustainability Score</source>
+        <note>Navigation-bar title</note>
+      </trans-unit>
+      <trans-unit id="user-profile.button.connect">
+        <source>Connect</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="user-profile.label.checkout-this-user-interests-and-status">
+        <source>Check out this user interests and status</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="user-profile.label.property-interests">
+        <source>Property Interests</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="user-profile.label.request-user-status">
+        <source>Request User Status</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="user-profile.label.with-params.credits">
+        <source>CREDITS: %lu</source>
+        <note>CREDITS: {amount}</note>
+      </trans-unit>
+      <trans-unit id="user-profile.label.with-params.user-is-looking-for-type-location">
+        <source>%@ is currently loooking for %@ in %@</source>
+        <note>{User First Name} is looking for {Request Type} in {Location}</note>
+      </trans-unit>
+      <trans-unit id="user-profile.title.user-profile">
+        <source>User Profile</source>
+        <note>Navigation-bar title</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
